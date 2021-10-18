@@ -1,0 +1,5 @@
+rootProject.name = "AndLogin"
+include ':app'
+include ':apt_annotation'
+include ':apt_processor'
+include ':login'
